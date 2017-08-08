@@ -1,3 +1,6 @@
 dragon fruit
 watermelon
 cantaloupe
+banana
+apple
+grape

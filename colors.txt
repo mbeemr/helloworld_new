@@ -1,3 +1,6 @@
 pink
 yellow
 orange
+green
+blue
+purple
